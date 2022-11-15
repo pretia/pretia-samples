@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/_Menu.unity
+    guid: 915865a9647d94855b5b9e6b2e5e49be
+  - enabled: 1
+    path: Assets/Samples/MultiMapRelocalization/MultiMapRelocalization.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Samples/HeatMap/HeatMap.unity
+    guid: 09971d6599ae14817add0994cf012d30
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f0551713f31d08e47a1a3b90beb8b73c, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 9ac0235854af9eb4cbad68d6c8598573, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 348414dd75efb39448269b52a94559f6, type: 2}
