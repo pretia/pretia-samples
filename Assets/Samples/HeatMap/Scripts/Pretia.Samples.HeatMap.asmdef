@@ -1,0 +1,17 @@
+{
+    "name": "Pretia.Samples.HeatMap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a26a169a3ac06f43b80126430ffe918",
+        "GUID:1f85abc6891c64f2b96552ffeb889d49"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

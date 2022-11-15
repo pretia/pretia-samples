@@ -6,11 +6,13 @@ Cloud. Please read through the
 understanding, find tutorials and further readings.
 
 ## Samples
-- [Multi Map Relocalization](Assets/Samples/MultiMapRelocalization/README.md)
 
+- [Multi Map Relocalization](Assets/Samples/MultiMapRelocalization/README.md)
+- [Heat Map](Assets/Samples/HeatMap/README.md)
 
 <div style="text-align:center">
     <img src="Docs/Images/ScreenShot-MultiMapReloc-Sphere.gif" alt="drawing" height="540" />
+    <img src="Docs/Images/ScreenShot-HeatMap.gif" alt="drawing" height="540" />
 </div>
 
 ## About Pretia AR Cloud
