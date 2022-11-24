@@ -2465,9 +2465,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _runRelocalizationOnStart: 0
   _restartAutomaticallyOnError: 1
-  RelocalizationType: 1
+  _relocalizationType: 1
   _timeoutInMilliseconds: 0
   _mapSelection: {fileID: 11400000, guid: 2b0c683d12b0f4a67bc8a49924277c6f, type: 2}
+  _mapRelocDataOptions:
+    GetScore: 1
+    GetKeypoints2D: 1
+    GetKeypoints3D: 0
   _trackedImageManager: {fileID: 0}
   _selectedReferenceImageIndex: 0
 --- !u!114 &2040415323

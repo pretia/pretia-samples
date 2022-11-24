@@ -53,7 +53,7 @@ using UnityEngine.Events;
         // the message to any listeners.
         private void UpdateStatus(string statusMessage)
         {
-            Debug.Log(statusMessage);
+            //Debug.Log(statusMessage);
             onStatusChanged.Invoke(statusMessage);
         }
     }
