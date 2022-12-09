@@ -44,6 +44,6 @@ The following instructions will guide you to set up and use this project. Please
 
 ![](Docs/Images/ScreenShot-DeveloperConsole-AppKey.png)
 
-4. In Unity, at the top bar menu click at `Pretia/SDK Setup` paste your App Key and login in to enable the usage of the Pretia SDK.
+4. In Unity, at the top bar menu click at `Pretia/SDK Setup` paste your App Key and API Key to validate and enable the usage of the Pretia SDK.
 
 ![](Docs/Images/ScreenShot-PretiaSDK-SetUp.png)
